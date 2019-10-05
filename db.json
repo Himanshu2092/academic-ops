@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"_id":"5b9646c638234f74bfb3e2f8","class":"10","name":"ASTHW821A01","numberOfStudents":26,"numberOfTeachers":6},{"_id":"5b9646c638234f74bfb3e2f9","class":"10","name":"ASFYW721A02","numberOfStudents":42,"numberOfTeachers":6},{"_id":"5b9646c638234f74bfb3e2f5","class":"9","name":"ASFYW822A01","numberOfStudents":41,"numberOfTeachers":6},{"_id":"5b9646c638234f74bfb3e2f6","class":"9","name":"ASFYW822B01","numberOfStudents":22,"numberOfTeachers":6},{"_id":"5b9646c638234f74bfb3e2f7","class":"9","name":"ASFYW822A02","numberOfStudents":34,"numberOfTeachers":6}],
